@@ -4,7 +4,3 @@ Journal Object ID:
 Transaction:
 https://suiscan.xyz/testnet/tx/7qG1bcZTqfvQRtTXnqhVZ2ZKPH5HHcp6373WSmEmpTEd
 
-Step 2
-Step2.png
-
-Step 3
